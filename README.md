@@ -68,7 +68,9 @@ This helps identify bottlenecks in the user journey.
 
 ##  Visualization
 
+## 📷 Visualization
 
+![Funnel Chart](images/funnel.png)
 
 
 ##  Key Insights
